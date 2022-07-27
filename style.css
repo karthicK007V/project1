@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+.fa{
+    color: red;
+}
+.box-part{
+    background-color: white;
+    padding: 40px 10px;
+}
+span{
+    font-size: 12px;
+}
+.text{
+    margin: 15px,0px;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+.box{
+    padding: 60px 0px;
+}
